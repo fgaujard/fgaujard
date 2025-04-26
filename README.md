@@ -95,7 +95,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgaujard&repo=checkpoint-4&theme=tokyonight" />
   </a>
   <a href="https://github.com/fgaujard/another-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgaujard&repo=piscine_reloadedt&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgaujard&repo=piscine_reloaded&theme=tokyonight" />
   </a>
 </div>
 
