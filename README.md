@@ -59,7 +59,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_UTILISATEUR&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgaujard&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -77,5 +77,5 @@
 
 <!-- Graphique d'activité -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VOTRE_NOM_UTILISATEUR&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fgaujard&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
