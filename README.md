@@ -11,9 +11,6 @@
   <a href="https://linkedin.com/in/flavien-gaujard">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/fgaujard">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <br/>
@@ -95,10 +92,10 @@
 
 <div align="center">
   <a href="https://github.com/fgaujard/project-name">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgaujard&repo=project-name&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgaujard&repo=checkpoint-4&theme=tokyonight" />
   </a>
   <a href="https://github.com/fgaujard/another-project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgaujard&repo=another-project&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fgaujard&repo=piscine_reloadedt&theme=tokyonight" />
   </a>
 </div>
 
